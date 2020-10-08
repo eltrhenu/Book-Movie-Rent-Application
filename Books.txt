@@ -1,0 +1,7 @@
+1,New,Albert Camus,The Stranger,Random House
+2,Old,Antoine De Saint Exupery,The Little Prince,Carbon Book
+3,New,Frank Baum,The Wizard of Oz,MK
+4,Old,Thomas More,Utopia,Dorlion
+5,Bargain,Stefan Zweig,Chess,Permanigo
+6,Bargain,Shakespeare,Hamlet,Engin
+7,New,Charles Dickens,Hard Times,Penguin
